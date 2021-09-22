@@ -1,3 +1,6 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = git@github.com:IgloohomeBaliDev/subrepo.git
+[submodule "secondmodule"]
+	path = secondmodule
+	url = git@github.com:IgloohomeBaliDev/secondmodule.git
